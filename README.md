@@ -5,3 +5,7 @@ Silahkan add file bahasa pemrograman
   * C
   * C#
   * Java
+
+    <a href="https://github.com/shailendra043/Kumpulan-bahasa-Pemrograman/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shailendra043/Kumpulan-bahasa-Pemrograman" />
+</a>
